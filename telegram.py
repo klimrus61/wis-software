@@ -4,7 +4,7 @@ def main():
 
     a = 10
     for i in a:
-        print("hello")
+        print(f"{a} hello")
 
 
 if __name__ == "__main__":
