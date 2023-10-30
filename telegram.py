@@ -1,5 +1,11 @@
-run bot 
+import os
 
-hack pentagon
+def main():
 
-succsess
+    a = 10
+    for i in a:
+        print("hello")
+
+
+if __name__ == "__main__":
+    main()
